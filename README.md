@@ -3,7 +3,7 @@
 
 ### Instagram Views Bot
 
-![Bot](https://github.com/NoNameoN-A/Instagram-Views-Bot/blob/main/screenshot.png)
+![Bot](https://github.com/NoNameoN-A/Instagram-Views-Bot/blob/main/screenshot2.png)
 
 # Requirements
 You must download selenium(You can use pip) and https://chromedriver.chromium.org/downloads
