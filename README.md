@@ -3,6 +3,9 @@
 
 ### Instagram Views Bot
 
+# VIDEO FOR BEGINNERS - Windows aviable
+If you are a beginners release a star this repository, follow me and send me a screenshot on the email alessandrogreco@hacari.org, i will send you a video where i'll show you what you must to do for solve the errors and for make it work.
+
 ![Bot](https://github.com/NoNameoN-A/Instagram-Views-Bot/blob/main/screenshot2.png)
 
 # Requirements
